@@ -1,9 +1,8 @@
 #ifndef __FUNCS_H__
 #define __FUNCS_H__
-5
 double MySum(double, double);
 double MySub(double, double);
 double MyMul(double, double);
 double MyDiv(double, double);
-double MyPow(double, double);
-#endif // __FUNCS_H__
+int MyPow(int, int);
+#endif // __FUNCS_H__
